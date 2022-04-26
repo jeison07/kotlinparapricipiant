@@ -406,6 +406,6 @@ class MainActivity : AppCompatActivity() {
         sara.code()
         println("${sara.friends?.first()?.name} es amigo de $sara.name")
     }
-}
+}   //hacer ensayo
 
 
